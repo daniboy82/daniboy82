@@ -1,4 +1,4 @@
-## <Hello, world/> 🌎  Bem-vindo(a) ao perfil do daniboy82
+## <Hello, world/> 🌎  Bem-vindo(a) ao perfil do Daniel
 
 <div>
   <a href="https://github.com/daniboy82">
